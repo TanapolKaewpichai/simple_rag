@@ -1,0 +1,11 @@
+LangChain is a framework for building applications with LLMs. It allows you to combine retrieval with generation using tools like OpenAI and FAISS.
+
+Retrieval-Augmented Generation (RAG) enhances LLMs by letting them access external information. You can use vector stores like FAISS to enable this.
+
+FAISS stands for Facebook AI Similarity Search. It is used to search through large sets of embeddings efficiently.
+
+Embeddings convert text into high-dimensional vectors. These vectors capture the meaning and context of the text.
+
+You can visualize these embeddings using t-SNE or PCA to better understand how your chunks are related.
+
+

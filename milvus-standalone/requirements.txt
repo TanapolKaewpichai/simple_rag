@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
+langchain
+langchain-community
+langchain-huggingface
+pymilvus==2.3.3
+rank_bm25
